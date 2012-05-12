@@ -1,0 +1,6 @@
+protocol = ftp
+user = weborigin
+password = qdfg4ujh
+host = ftp.weborigin.co.nz
+path = httpdocs
+cli_options = ""
